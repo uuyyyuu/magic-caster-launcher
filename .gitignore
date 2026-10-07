@@ -1,0 +1,9 @@
+/build/
+/dist/
+.DS_Store
+.idea/
+*.iml
+*.p12
+*.jks
+*.keystore
+/.keys/
